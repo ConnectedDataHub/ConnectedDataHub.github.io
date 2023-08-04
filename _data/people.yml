@@ -1,0 +1,40 @@
+people:
+  - name: Alex Gates
+    url: /alex/
+    image_path: /assets/images/people/dan.gif
+    title: Principal Investigator
+    subject: Assistant Professor
+    aliases:
+      - Alexander J. Gates
+  - name: Jianjian Gao
+    url: /
+    image_path: /assets/images/people/tzuchi.gif
+    title: Postdoctoral Researcher
+    subject: policy diffusion
+  - name: Beau Walters Leblond
+    url: /
+    image_path: /assets/images/people/beau.
+    title: PhD Student, SDS
+    subject: science policy
+    aliases:
+      - Beau Leblond
+  
+alumni:
+  - name: Dr. Xindi Wang
+    now: Fidelity Investients
+    url: https://upasanadutta.owlstown.net/
+    aliases:
+      - Xindi Wang
+  - name: Dr. Yessica Herrera-Guzman
+    url: /
+    aliases:
+      - Yessie Herrera
+    now: Postdoctoral Fellow, Northwestern University
+  
+
+
+collaborators:
+  - name: Albert-Laszlo Barabasi
+    url: https://www.barabasilab.com/
+  - name: Yong-Yeol Ahn
+    url: https://yongyeol.com/

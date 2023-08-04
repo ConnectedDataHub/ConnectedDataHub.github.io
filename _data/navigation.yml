@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+ - title: People
+    url: /people/
+  - title: Papers
+    url: /publications/
+  - title: Code & Data
+    url: /openscience/
+  - title: Slides
+    url: /slides/
+  - title: Jobs
+    url: /opportunities/
+  - title: Lab Manual
+    url: /manual/
+  - title: Teaching
+    url: /teaching/
+  - title: Press
+    url: /press/
