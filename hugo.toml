@@ -8,6 +8,7 @@ theme = 'ananke'
   body_classes = 'helvetica bg-white'
   post_content_classes = 'helvetica bg-white'
   custom_css = ["custom.css"]
+  site_logo = "static/images/cdh_logo_main"
 
 [[params.ananke_socials]]
   name = "github"
