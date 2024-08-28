@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Themes on The Connected Data Hub</title>
+    <link>http://localhost:1313/themes/</link>
+    <description>Recent content in Themes on The Connected Data Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jun 2024 15:37:25 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List</title>
+      <link>http://localhost:1313/themes/ananke/layouts/projects/list/</link>
+      <pubDate>Fri, 07 Jun 2024 15:37:25 -0400</pubDate>
+      <guid>http://localhost:1313/themes/ananke/layouts/projects/list/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
